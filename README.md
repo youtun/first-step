@@ -3,7 +3,7 @@
 > My first coding journey.
 
 안녕하세요!  
-개발자를 꿈꾸며 하나씩 배우고 있는 **OOO**입니다.
+개발자를 꿈꾸며 하나씩 배우고 있는 **Youtun**입니다.
 
 ## 🌱 About Me
 - 💻 **Programming Beginner**  
